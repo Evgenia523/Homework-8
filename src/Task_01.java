@@ -24,5 +24,6 @@ public class Task_01 {
 
         int determinant = matrix1.determinant();
         System.out.println("Determinant: " + determinant);
+
     }
 }
