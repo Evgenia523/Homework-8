@@ -5,7 +5,7 @@ public class Task_03 {
 
         public static void main(String[] args) {
             String[] array = {"Hello World", "Java is fun", "Programming is awesome"};
-            Main1 utils = new Main1(array);
+            Main2 utils = new Main2(array);
 
             // Вывод содержимого массива в начальном порядке
             System.out.println("Исходный массив: " + utils.arrayToString());
