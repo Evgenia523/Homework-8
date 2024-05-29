@@ -28,6 +28,5 @@ public class Main2 {
         private int countWords(String str) {
             return str.trim().split("\\s+").length;
         }
-
     }
 

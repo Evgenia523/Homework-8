@@ -18,6 +18,5 @@ public class Task_03 {
             utils.sortByWordCount();
             System.out.println("Массив, отсортированный по количеству слов: " + utils.arrayToString());
         }
-
     }
 
